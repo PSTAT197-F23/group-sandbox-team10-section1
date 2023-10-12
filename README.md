@@ -8,4 +8,4 @@ updated october 2023
 
 ### Oct 11th Lecture Update
 
-Hi! This is Qifei.
+Hi! This is Qifei, Yixin, Sarah, Mu, and Mario.
