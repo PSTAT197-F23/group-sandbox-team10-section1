@@ -13,6 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 I am currently taking the capstone course.
 I like Chinese food.
 
-Mu's question: what's your favorite course at UCSB
-
 
