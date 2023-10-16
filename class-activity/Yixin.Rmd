@@ -11,5 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Interesting fact about Yixin: I am curretnly taking the capstone course###
 
+Mu's question: what's your favorite course at UCSB
 
 
