@@ -1,3 +1,3 @@
 ## About Me
 
-I like blenders and habit burger
+I like blenders and habit burger.
