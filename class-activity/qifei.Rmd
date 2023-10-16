@@ -13,4 +13,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 See more details on `qifei-c.com`
 
-Mu's question: Awesome website! I am also interested in fraud detection.
+Mu's question: Awesome website! I am also interested in applying DL to fraud detection.
