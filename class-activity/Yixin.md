@@ -1,0 +1,16 @@
+---
+title: "Yixin"
+author: "Yixin Xue"
+date: "2023-10-11"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Interesting fact about Yixin: 
+I am currently taking the capstone course.
+I like Chinese food.
+
+
