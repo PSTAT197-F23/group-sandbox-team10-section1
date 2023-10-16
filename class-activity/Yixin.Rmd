@@ -9,7 +9,9 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Interesting fact about Yixin: I am curretnly taking the capstone course###
+### Interesting fact about Yixin: 
+I am currently taking the capstone course.
+I like Chinese food.
 
 
 
