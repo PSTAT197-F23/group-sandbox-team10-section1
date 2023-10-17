@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 # I am learning to surf at UCSB
+
+Mu's question: How do you like it

@@ -1,6 +1,6 @@
 # About Me
 
-I like to climb
+I've been climbing for a year.
 
 Mu's question: Where do you usually go for climbing, the climbing wall at Rec?
 
